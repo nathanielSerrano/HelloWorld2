@@ -8,5 +8,6 @@ public class Hello {
 		System.out.println("I bid thee farewell.");
 		
 		System.out.println("Hi, Alice!");
+		System.out.println("Hi, Bob!");
 	}
 }
