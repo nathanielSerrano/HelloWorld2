@@ -6,5 +6,7 @@ public class Hello {
 		System.out.println("Here ye : important announcement");
 		System.out.println("Hello World!");
 		System.out.println("I bid thee farewell.");
+		
+		System.out.println("Hi, Bob!");
 	}
 }
